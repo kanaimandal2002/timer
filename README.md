@@ -11,6 +11,12 @@ A simple Pomodoro timer application for productivity. The timer alternates betwe
 - Tracks completed work sessions
 - Responsive design
 
+
+## Live Demo
+
+You can view a live version of this tool at [(https://kanaimandal2002.github.io/timer/)]
+
+
 ## How to Use
 
 1. Set your preferred work and break durations in the settings

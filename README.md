@@ -7,7 +7,6 @@ A simple Pomodoro timer application for productivity. The timer alternates betwe
 - 25-minute work sessions (configurable)
 - 5-minute break sessions (configurable)
 - Start, pause, and reset functionality
-- Visual indication of current session type
 - Tracks completed work sessions
 - Responsive design
 
